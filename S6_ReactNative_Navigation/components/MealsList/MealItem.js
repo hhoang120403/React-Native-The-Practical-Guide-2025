@@ -1,7 +1,7 @@
 import { useNavigation } from "@react-navigation/native";
 import { Image, Platform, Pressable, StyleSheet } from "react-native";
 import { Text, View } from "react-native";
-import MealDetails from "./MealDetails";
+import MealDetails from "../MealDetails";
 
 function MealItem({
   id,
